@@ -3,6 +3,9 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+body{
+  background-size: 100%;
+}
 
 .nav_section .navbar-brand{
     font-size: 25px;
@@ -70,6 +73,7 @@ canvas.particles-js-canvas-el
     padding:40px 0;
     background-color:black;
     color:#4b4c4d;
+    
   }
   
   .footer-basic ul {
